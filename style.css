@@ -8,6 +8,7 @@
     background-color: blue;
     width: 660px;
     margin: 0 auto;
+    padding: 5px;
 }
 
 .flex{
@@ -26,4 +27,8 @@ p{
 }
 .esticar{
     padding-right: 300px;
+}
+
+.alongar{
+    padding-bottom: 300px;
 }
